@@ -1,34 +1,21 @@
-## Digital Praxis Seminar
-
-MALS 75400/IDS 81640
-
-Fall 2014
-
-CUNY Graduate Center
-
+## Digital Praxis Seminar <br />
+MALS 75400/IDS 81640 <br />
+Fall 2014 <br />
+CUNY Graduate Center <br />
 Thursdays 4:15pm – 6:15pm - Room C415A
 
-
-**Dr. Matthew K. Gold**
-
-mgold@gc.cuny.edu 
-
-http://mkgold.net
-
+**Dr. Matthew K. Gold** <br />
+mgold@gc.cuny.edu  <br />
+http://mkgold.net <br />
 @mkgold
 
-**Dr. Stephen Brier**
-
-sbrier@gc.cuny.edu
-
-http://commons.gc.cuny.edu/members/sbrier
-
+**Dr. Stephen Brier** <br />
+sbrier@gc.cuny.edu <br />
+http://commons.gc.cuny.edu/members/sbrier <br />
 @stevebrier
 
-Course Group: http://commons.gc.cuny.edu/groups/digital-praxis-seminar-2014-2015/
-
-Course Blog: http://cuny.is/dhpraxis14
-
+Course Group: http://commons.gc.cuny.edu/groups/digital-praxis-seminar-2014-2015/  <br />
+Course Blog: http://cuny.is/dhpraxis14  <br />
 Course Hashtag: #dhpraxis14
 
 ### DH Praxis Seminar Overview: 
