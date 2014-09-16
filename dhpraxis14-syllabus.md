@@ -1,21 +1,21 @@
-# Digital Praxis Seminar
-## MALS 75400/IDS 81640
-## Fall 2014
-## CUNY Graduate Center
-## Thursdays 4:15pm – 6:15pm - Room C415A
+## Digital Praxis Seminar
+MALS 75400/IDS 81640
+Fall 2014
+CUNY Graduate Center
+Thursdays 4:15pm – 6:15pm - Room C415A
 
 **Dr. Matthew K. Gold**
 mgold@gc.cuny.edu 
-[http://mkgold.net]
+http://mkgold.net
 @mkgold
 
 **Dr. Stephen Brier**
 sbrier@gc.cuny.edu
-[http://commons.gc.cuny.edu/members/sbrier]
+http://commons.gc.cuny.edu/members/sbrier
 @stevebrier
 
-Course Group: [http://commons.gc.cuny.edu/groups/digital-praxis-seminar-2014-2015/]
-Course Blog: [http://cuny.is/dhpraxis14]
+Course Group: http://commons.gc.cuny.edu/groups/digital-praxis-seminar-2014-2015/
+Course Blog: http://cuny.is/dhpraxis14
 Course Hashtag: #dhpraxis14
 
 ### DH Praxis Seminar Overview: 
@@ -64,7 +64,7 @@ Remember that when you register for social-networking accounts, you do not have 
 
 
 **Books to Purchase:**
-Note: We encourage you to purchase books via [this link](http://www.amazon.com/gp/homepage.html?ie=UTF8&placement=home-logo-130x60b.gif&tag=gccunyvirtualboo&link_code=hom&tag-id=gccunyvirtualboo), which costs you nothing but nets a 5 percent contribution to the Mina Rees Library for book and electronic resource purchases for the benefit of all GC students. 
+Note: We encourage you to purchase books via <a href="http://www.amazon.com/gp/homepage.html?ie=UTF8&placement=home-logo-130x60b.gif&tag=gccunyvirtualboo&link_code=hom&tag-id=gccunyvirtualboo">this link</a>, which costs you nothing but nets a 5 percent contribution to the Mina Rees Library for book and electronic resource purchases for the benefit of all GC students. 
 
 Required
 * Fitzpatrick, Kathleen. _Planned Obsolescence: Publishing, Technology, and the Future of the Academy_. New York: New York University Press, 2011. 
@@ -103,14 +103,14 @@ Readings marked (PDF) will be made available via the Files section of our course
 * Other readings TBA
 
 
-** Sept. 25 - No Class - GC closed for Rosh Hashanah** 
+**Sept. 25 - No Class - GC closed for Rosh Hashanah** 
 
 **Oct. 2 - Distant Reading**
 * Franco Moretti, Graphs, Maps, Trees 
 * Franco Moretti, “The Slaughterhouse of Literature” (PDF)
 * Matthew Jockers, Macroanalysis (selections)
 
-** Oct. 9 - Digital Pedagogy: How DH is Reshaping Teaching & Learning**
+**Oct. 9 - Digital Pedagogy: How DH is Reshaping Teaching & Learning**
 * Stephen Brier, “Where’s the Pedagogy? The Role of Teaching and Learning in the Digital Humanities” and Luke Waltzer, “Digital Humanities and the ‘Ugly Stepchildren’ of American Higher Education” in Debates in the Digital Humanities; 
 * Selected readings in Digital Humanities Pedagogy: Practices, Principles and Politics (PDF)
 	
