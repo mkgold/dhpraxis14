@@ -66,7 +66,7 @@ Remember that when you register for social-networking accounts, you do not have 
 **Books to Purchase:** <br />
 Note: We encourage you to purchase books via <a href="http://www.amazon.com/gp/homepage.html?ie=UTF8&placement=home-logo-130x60b.gif&tag=gccunyvirtualboo&link_code=hom&tag-id=gccunyvirtualboo">this link</a>, which costs you nothing but nets a 5 percent contribution to the Mina Rees Library for book and electronic resource purchases for the benefit of all GC students. 
 
-Required <br />
+_Required_ <br />
 * Fitzpatrick, Kathleen. _Planned Obsolescence: Publishing, Technology, and the Future of the Academy_. New York: New York University Press, 2011. 
 
 * Moretti, Franco. _Graphs, Maps, Trees: Abstract Models for a Literary History_. London: Verso, 2005. 
@@ -74,8 +74,8 @@ Required <br />
 * Presner, Todd, et. al. _HyperCities: Thick Mapping in the Digital Humanities_. Cambridge, Mass.: Harvard University Press, 2014.
 
 
-Optional <br />
-* Gold, Matthew K. _Debates in the Digital Humanities_. Minneapolis: University of Minnesota Press, 2012.  [Book is available for free online at http://dhdebates.gc.cuny.edu ]
+_Optional_ <br />
+* Gold, Matthew K. _Debates in the Digital Humanities_. Minneapolis: University of Minnesota Press, 2012.  Book is available for free online at http://dhdebates.gc.cuny.edu 
 
 
 Readings marked (PDF) will be made available via the Files section of our course group.
