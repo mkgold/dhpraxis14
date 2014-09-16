@@ -85,8 +85,7 @@ Readings marked (PDF) will be made available via the Files section of our course
 
 **Aug. 28 - Introductions**
 
-**Sept. 4 - What is DH?/Defining the Digital Humanities** 
-	Reading: 
+**Sept. 4 - What is DH?/Defining the Digital Humanities**  
 * Debates in the Digital Humanities: Introduction, Part I: Defining the Digital Humanities + Matthew Kirschenbaum, “Digital Humanities As/Is a Tactical Term”
 * Gold, Matthew K. “Digital Humanities” from The Johns Hopkins Guide to Digital Media (PDF)
 * Susan Hockey, “The History of Humanities Computing” from A Companion to Digital Humanities
