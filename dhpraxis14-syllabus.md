@@ -52,21 +52,21 @@ Invited speakers, all prominent digital humanists, will each join the class to d
 **Final Projects**
 * Students may choose between writing a reflective course paper that discusses how new methodologies / digital tools are affecting their respective academic fields; or crafting a proposal for a digital project that might be executed with a team of students during the spring semester.
 
-**Grading:**
+**Grading:** 
 * Regular participation in discussions across the range of our face-to-face and online course spaces is essential. A significant part of our course will involve experimentation and play with various digital humanities tools. There will also be an emphasis throughout the course on online participation through various projects and weekly online discussions that will contribute to your final grade. (30%)
 
 * Final paper (70%)
 
-**Accounts:**
+**Accounts:**  <br />
 Immediately following the first class on August 28th, all students should register for accounts on the following sites: CUNY Academic Commons, Twitter, and Zotero. 
 
 Remember that when you register for social-networking accounts, you do not have to use your full name or even your real name. One benefit of writing publicly under your real name is that you can begin to establish a public academic identity and to network with others in your field. However, keep in mind that search engines have extended the life of online work; if you are not sure that you want your work for this course to be part of your permanently searchable identity trail on the web, you should strongly consider creating a digital alias. Whether you engage social media under your real name or whether you construct a new online identity, please consider the ways in which social media can affect your career in both positive and negative ways.
 
 
-**Books to Purchase:**
+**Books to Purchase:** <br />
 Note: We encourage you to purchase books via <a href="http://www.amazon.com/gp/homepage.html?ie=UTF8&placement=home-logo-130x60b.gif&tag=gccunyvirtualboo&link_code=hom&tag-id=gccunyvirtualboo">this link</a>, which costs you nothing but nets a 5 percent contribution to the Mina Rees Library for book and electronic resource purchases for the benefit of all GC students. 
 
-Required
+Required <br />
 * Fitzpatrick, Kathleen. _Planned Obsolescence: Publishing, Technology, and the Future of the Academy_. New York: New York University Press, 2011. 
 
 * Moretti, Franco. _Graphs, Maps, Trees: Abstract Models for a Literary History_. London: Verso, 2005. 
@@ -74,7 +74,7 @@ Required
 * Presner, Todd, et. al. _HyperCities: Thick Mapping in the Digital Humanities_. Cambridge, Mass.: Harvard University Press, 2014.
 
 
-Optional
+Optional <br />
 * Gold, Matthew K. _Debates in the Digital Humanities_. Minneapolis: University of Minnesota Press, 2012.  [Book is available for free online at http://dhdebates.gc.cuny.edu ]
 
 
@@ -118,7 +118,7 @@ Readings marked (PDF) will be made available via the Files section of our course
 **Oct. 16 - CATHY DAVIDSON VISIT?**
 
 
-**Oct. 23	Lev Manovich (CUNY Graduate Center) on Data Visualization** 
+**Oct. 23	Lev Manovich (CUNY Graduate Center) on Data Visualization**  <br />
 	Reading - TENTATIVE
 * Lev Manovich, “Trending: The Promises and the Challenges of Big Social Data,” “How to Compare One Million Images”
 * Lev Manovich, “Media Visualization: Visual Techniques for Exploring Large Media Collections” https://docs.google.com/viewer?url=http%3A%2F%2Fsoftwarestudies.com%2Fcultural_analytics%2FManovich.Media_Visualization.web.2012.v2.doc 
@@ -130,14 +130,14 @@ Readings marked (PDF) will be made available via the Files section of our course
 * Explore the Visual Complexity websites
 
         
-**Oct. 30 - TOM SCHEINFELDT VISIT**
+**Oct. 30 - TOM SCHEINFELDT VISIT** <br />
 Tom Scheinfeldt (University of Connecticut) on managing DH projects
 * Tom Scheinfeldt, Intro to Project Management Notes
 * Bethany Nowviskie, Ten Rules for Humanities Scholars New to Project Management (pdf)
 * Sharon Leon, “Project Management for Humanists”
 * John Unsworth, “The Importance of Failure”
 
-**Nov. 6 - KATHLEEN FITZPATRICK VISIT**
+**Nov. 6 - KATHLEEN FITZPATRICK VISIT** <br />
 Kathleen Fitzpatrick (Modern Language Association) on scholarly communication. 
 * Kathleen Fitzpatrick, Planned Obsolescence
 * Hacking the Academy: Hacking Scholarship section 
