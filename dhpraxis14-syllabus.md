@@ -124,8 +124,8 @@ Readings marked (PDF) will be made available via the Files section of our course
 **Oct. 16 - CATHY DAVIDSON VISIT?**
 * Readings TBA
 
-**Oct. 23   Lev Manovich (CUNY Graduate Center) on Data Visualization**  <br />
-	Reading - TENTATIVE
+**Oct. 23   Lev Manovich (CUNY Graduate Center) on Data Visualization**  
+
 * Lev Manovich, “Trending: The Promises and the Challenges of Big Social Data,” “How to Compare One Million Images”
 * Lev Manovich, “Media Visualization: Visual Techniques for Exploring Large Media Collections” https://docs.google.com/viewer?url=http%3A%2F%2Fsoftwarestudies.com%2Fcultural\_analytics%2FManovich.Media\_Visualization.web.2012.v2.doc 
 * Lev Manovich, “What is Visualization” http://lab.softwarestudies.com/2010/10/new-article-is-visualization.html 
@@ -135,28 +135,33 @@ Readings marked (PDF) will be made available via the Files section of our course
 * Ben Fry, “On the Origin of Species: The Preservation of Favoured Traces” http://benfry.com/traces/ 
 * Explore the Visual Complexity websites
 
-**Oct. 30 - TOM SCHEINFELDT VISIT** <br />
+**Oct. 30 - TOM SCHEINFELDT VISIT**
 Tom Scheinfeldt (University of Connecticut) on managing DH projects
 * Tom Scheinfeldt, Intro to Project Management Notes
 * Bethany Nowviskie, Ten Rules for Humanities Scholars New to Project Management (pdf)
 * Sharon Leon, “Project Management for Humanists”
 * John Unsworth, “The Importance of Failure”
 
-**Nov. 6 - KATHLEEN FITZPATRICK VISIT** <br />
+**Nov. 6 - KATHLEEN FITZPATRICK VISIT** 
+
 Kathleen Fitzpatrick (Modern Language Association) on scholarly communication. 
+
 * Kathleen Fitzpatrick, Planned Obsolescence
 * Hacking the Academy: Hacking Scholarship section 
 
 **Nov. 13 - ANDY STAUFFER VISIT**
+
 * Readings TBA
 
 **Nov. 20 - ELIZABETH MADDOCK DILLON VISIT**
+
 * Readings TBA
 
 **Nov. 27 – No Class - GC closed for Thanksgiving)**
 
 **Dec. 4 - NYPL Labs visit**
-Readings TBA
+
+* Readings TBA
 
 **Dec. 11 - Final presentations**
 
