@@ -113,10 +113,13 @@ Readings marked (PDF) will be made available via the Files section of our course
 * (continued discussion of Jockers)
 *  Stephen Brier, “Where’s the Pedagogy? The Role of Teaching and Learning in the Digital Humanities” and Luke Waltzer, “Digital Humanities and the ‘Ugly Stepchildren’ of American Higher Education” in Debates in the Digital Humanities http://dhdebates.gc.cuny.edu ; 
 * In _Digital Humanities Pedagogy: Practices, Principles and Politics_ ( [http://www.openbookpublishers.com/reader/161](http://www.openbookpublishers.com/reader/161) ):
-> * * “Teaching Skills or Teaching Methodology?” - Simon Mahony and Elena Pierazzo 
-	> * “Programming with Humanists: Reflections on Raising an Army of Hacker-Scholars in the Digital Humanities” - Stephen Ramsay 
-	> * “Multiliteracies in the Undergraduate Digital Humanities Curriculum: Skills, Principles and Habits of Mind” - Tanya Clement 
-	> 	 
+
+* * “Teaching Skills or Teaching Methodology?” - Simon Mahony and Elena Pierazzo 
+
+* * “Programming with Humanists: Reflections on Raising an Army of Hacker-Scholars in the Digital Humanities” - Stephen Ramsay 
+
+*  * “Multiliteracies in the Undergraduate Digital Humanities Curriculum: Skills, Principles and Habits of Mind” - Tanya Clement 
+		 
 
 **Oct. 16 - CATHY DAVIDSON VISIT?**
 * Readings TBA
