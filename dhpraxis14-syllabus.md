@@ -121,7 +121,7 @@ Readings marked (PDF) will be made available via the Files section of our course
 	* “Multiliteracies in the Undergraduate Digital Humanities Curriculum: Skills, Principles and Habits of Mind” - Tanya Clement 
 		 
 
-**Oct. 16 - Geospatial Humanities
+**Oct. 16 - Geospatial Humanities**
 * [continued discussion of DH Pedagogy readings]
 * Todd Presner, _Hypercities_
 * Hypercities book website http://thebook.hypercities.com/
