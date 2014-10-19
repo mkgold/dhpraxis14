@@ -128,14 +128,14 @@ Readings marked (PDF) will be made available via the Files section of our course
 
 **Oct. 23   Lev Manovich (CUNY Graduate Center) on Data Visualization**  
 
-* Lev Manovich, “Trending: The Promises and the Challenges of Big Social Data,” “How to Compare One Million Images”
-* Lev Manovich, “Media Visualization: Visual Techniques for Exploring Large Media Collections” https://docs.google.com/viewer?url=http%3A%2F%2Fsoftwarestudies.com%2Fcultural\_analytics%2FManovich.Media\_Visualization.web.2012.v2.doc 
-* Lev Manovich, “What is Visualization” http://lab.softwarestudies.com/2010/10/new-article-is-visualization.html 
-	Playing:
+* Lev Manovich, “Trending: The Promises and the Challenges of Big Social Data,” “How to Compare One Million Images” http://dhdebates.gc.cuny.edu/debates/text/15 
+* Lev Manovich, “Media Visualization: Visual Techniques for Exploring Large Media Collections” http://manovich.net/index.php/projects/media-visualization-visual-techniques-for-exploring-large-media-collections
+* Lev Manovich, “What is Visualization” http://manovich.net/index.php/projects/what-is-visualization
+* Lauren Klein, "The Long Arc of Visual Display" (video) https://www.youtube.com/watch?v=heUI6QmSdzc
 * Visualization projects: check out 
 * “History Flow” - http://www.bewitched.com/historyflow.html 
 * Ben Fry, “On the Origin of Species: The Preservation of Favoured Traces” http://benfry.com/traces/ 
-* Explore the Visual Complexity websites
+* Explore the Visual Complexity website - http://www.visualcomplexity.com/vc/
 
 **Oct. 30 - TOM SCHEINFELDT VISIT**
 Tom Scheinfeldt (University of Connecticut) on managing DH projects
