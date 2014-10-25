@@ -148,8 +148,8 @@ Tom Scheinfeldt (University of Connecticut) on managing DH projects
 
 Kathleen Fitzpatrick (Modern Language Association) on scholarly communication. 
 
-* Kathleen Fitzpatrick, Planned Obsolescence
-* Hacking the Academy: Hacking Scholarship section 
+* Kathleen Fitzpatrick, _Planned Obsolescence_
+* Hacking the Academy: Hacking Scholarship section - http://quod.lib.umich.edu/d/dh/12172434.0001.001/1:2/--hacking-the-academy-new-approaches-to-scholarship?g=dculture;rgn=div1;view=fulltext;xc=1
 
 **Nov. 13 - ANDY STAUFFER VISIT**
 
