@@ -139,10 +139,10 @@ Readings marked (PDF) will be made available via the Files section of our course
 
 **Oct. 30 - TOM SCHEINFELDT VISIT**
 Tom Scheinfeldt (University of Connecticut) on managing DH projects
-* Tom Scheinfeldt, Intro to Project Management Notes
-* Bethany Nowviskie, Ten Rules for Humanities Scholars New to Project Management (pdf)
-* Sharon Leon, “Project Management for Humanists”
-* John Unsworth, “The Importance of Failure”
+* Tom Scheinfeldt, Intro to Project Management Notes - https://docs.google.com/document/d/1Ex-b6zWtiuQWZw6DkV7B4cEGNovUWznvFV0fPvHXpN0/edit?hl=en_US&pli=1
+* Bethany Nowviskie, Ten Rules for Humanities Scholars New to Project Management - http://nowviskie.org/handouts/DH/10rules.pdf
+* Sharon Leon, “Project Management for Humanists” - http://mediacommons.futureofthebook.org/alt-ac/pieces/project-management-humanists
+* John Unsworth, “The Importance of Failure” - http://quod.lib.umich.edu/cgi/t/text/text-idx?c=jep;view=text;rgn=main;idno=3336451.0003.201
 
 **Nov. 6 - KATHLEEN FITZPATRICK VISIT** 
 
