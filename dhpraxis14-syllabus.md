@@ -167,6 +167,10 @@ Kathleen Fitzpatrick (Modern Language Association) on scholarly communication.
 
 **Dec. 11 - Final presentations**
 
+**Dec. 19 - Final paper due** http://dhpraxis14.commons.gc.cuny.edu/files/2014/08/DHPraxis-seminar-final-assignment-f141.pdf
 
 
-### Workshop Schedule TBA
+
+### Workshop Schedule
+Please see the GC Digital Fellows workshop schedule - http://digitalfellows.commons.gc.cuny.edu/workshops/
+and the GCDI calendar for other workshops - http://gcdi.commons.gc.cuny.edu/events/
