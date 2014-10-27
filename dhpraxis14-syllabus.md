@@ -151,9 +151,10 @@ Kathleen Fitzpatrick (Modern Language Association) on scholarly communication.
 * Kathleen Fitzpatrick, _Planned Obsolescence_
 * Hacking the Academy: Hacking Scholarship section - http://quod.lib.umich.edu/d/dh/12172434.0001.001/1:2/--hacking-the-academy-new-approaches-to-scholarship?g=dculture;rgn=div1;view=fulltext;xc=1
 
-**Nov. 13 - ANDY STAUFFER VISIT**
+**Nov. 13 - Steve Jones Lecture - "The Priest and the CEO" Room 5318.05. 4:00 PM**
 
-* Readings TBA
+We will be joining the ARC Seminar to hear Steve Jones, Distinguished Fellow in Digital Humanities, give a report on his book in progress. The book is "about the birth of humanities computing in 1949, when the Jesuit scholar, Father Roberto Busa, came to IBM NY to work out a collaboration for building a massive concordance to the works of St. Thomas Aquinas. The story of that meeting, as told by Father Busa and others, has become the founding myth of the digital humanities, and I aim to examine the complex historical details behind the myth. I've been examining archives at IBM and the papers of Father Busa in Milan, among other materials, in order to write a kind of pre-history of DH, applying the methods of media archaeology--focused on punched card  machines and early stored-program computers--and narrative history, to tell a a multilayered story about technology and interdisciplinary humanities research in the postwar era."
+
 
 **Nov. 20 - ELIZABETH MADDOCK DILLON VISIT**
 
