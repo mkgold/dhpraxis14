@@ -156,15 +156,17 @@ Kathleen Fitzpatrick (Modern Language Association) on scholarly communication.
 We will be joining the ARC Seminar to hear Steve Jones, Distinguished Fellow in Digital Humanities, give a report on his book in progress. The book is "about the birth of humanities computing in 1949, when the Jesuit scholar, Father Roberto Busa, came to IBM NY to work out a collaboration for building a massive concordance to the works of St. Thomas Aquinas. The story of that meeting, as told by Father Busa and others, has become the founding myth of the digital humanities, and I aim to examine the complex historical details behind the myth. I've been examining archives at IBM and the papers of Father Busa in Milan, among other materials, in order to write a kind of pre-history of DH, applying the methods of media archaeology--focused on punched card  machines and early stored-program computers--and narrative history, to tell a a multilayered story about technology and interdisciplinary humanities research in the postwar era."
 
 
-**Nov. 20 - ELIZABETH MADDOCK DILLON VISIT**
-
-* Readings TBA
+**Nov. 20 - Dataset presentations
 
 **Nov. 27 – No Class - GC closed for Thanksgiving)**
 
 **Dec. 4 - NYPL Labs visit**
 
-* Readings TBA
+* NYPL Labs website: http://www.nypl.org/collections/labs
+
+* NYPL twitter account: https://twitter.com/nypl_labs
+
+* Shannon Mattern, "Library as Infrastructure" https://placesjournal.org/article/library-as-infrastructure/
 
 **Dec. 11 - Final presentations**
 
