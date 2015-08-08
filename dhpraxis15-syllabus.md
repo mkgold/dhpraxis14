@@ -1,8 +1,8 @@
 ## Digital Praxis Seminar <br />
-MALS 75400/IDS 81640 <br />
-Fall 2014 <br />
+MALS 75400/IDS 81620 <br />
+Fall 2015 <br />
 CUNY Graduate Center <br />
-Thursdays 4:15pm – 6:15pm - Room C415A
+Thursdays 4:15pm – 6:15pm - Room 8203
 
 **Dr. Matthew K. Gold** <br />
 mgold@gc.cuny.edu  <br />
