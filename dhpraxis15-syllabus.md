@@ -50,18 +50,18 @@ Invited speakers, all prominent digital humanists, will join the class to discus
 
 * We will be offering skills workshops throughout the semester. Students are responsible for attending a minimum of three workshops over the course of the semester. You are free to go to as many as you’d like pending space limitations. Students should write one blog post describing how one of the workshops they attended would be especially useful to a particular undergraduate class in their discipline.
 
-	*Workshop Schedule*  
-Please see the GC Digital Fellows workshop schedule - [http://digitalfellows.commons.gc.cuny.edu/workshops/](http://digitalfellows.commons.gc.cuny.edu/workshops/)
-and the GCDI calendar for other workshops - [http://gcdi.commons.gc.cuny.edu/events/](http://gcdi.commons.gc.cuny.edu/events/)
+* *Workshop Schedule*  
+Please see the GC Digital Fellows workshop schedule [http://digitalfellows.commons.gc.cuny.edu/workshops/](http://digitalfellows.commons.gc.cuny.edu/workshops/)
+and the GCDI calendar for other workshops [http://gcdi.commons.gc.cuny.edu/events/](http://gcdi.commons.gc.cuny.edu/events/)
 
 
 **Data Project**
 
-* Students will identify a dataset of interest and explore it before the end of the semester using a digital tool such as MALLET, Gephi, R, Voyant, Juxta, ImagePlot, or Neatline, among others (many tools can be found in the [DiRT Directory](http://dirtdirectory.org/)). Early in the semester, students will write one blog post linking to their dataset, explaining why they selected it, noting what datapoints they excluded and why, and describing how they cleaned or prepared the data for analysis. Near the end of the semester, students will write a second blog post describing the results of their experiments with their digital tool, focusing in particular on the strengths and limitations of the tool or methodology they used.
+* Students will identify a dataset of interest and explore it before the end of the semester using a digital tool such as MALLET, Gephi, R, Voyant, Juxta, ImagePlot, or Neatline, among others (many more tools can be found in the [DiRT Directory](http://dirtdirectory.org/)). Early in the semester, students will write one blog post linking to their dataset, explaining why they selected it, noting what datapoints they excluded and why, and describing how they cleaned or prepared the data for analysis. Near the end of the semester, students will write a second blog post describing the results of their experiments with their digital tool, focusing in particular on the strengths and limitations of the tool or methodology they used.
 
 **Final Projects**
 
-* Students may choose between a) writing a reflective course paper that uses their data project as a case study to demonstrate how new methodologies / digital tools are changing their respective academic fields, b) crafting a formal proposal for a digital project that might be executed with a team of students during the spring semester, or c) creating an individual digital research project on a Commons website that compares the dataset used for your data project with a second, related dataset.
+* Students may choose between **a)** writing a reflective course paper that uses their data project as a case study to demonstrate how new methodologies / digital tools are changing their respective academic fields, **b)** crafting a formal proposal for a digital project that might be executed with a team of students during the spring semester, or **c)** creating an individual digital research project on a Commons website that compares the dataset used for your data project with a second, related dataset.
 
 **Grading** 
 
@@ -69,13 +69,15 @@ and the GCDI calendar for other workshops - [http://gcdi.commons.gc.cuny.edu/eve
 
 * Final project (70%)
 
-**Accounts**  <br />
+**Accounts** 
+
 Immediately following the first class on August 31st, all students should register for accounts on the following sites: [CUNY Academic Commons](https://commons.gc.cuny.edu/), [Twitter](https://twitter.com), and [Zotero](https://www.zotero.org/). 
 
 Remember that when you register for social-networking accounts, you do not have to use your full name or even your real name. One benefit of writing publicly under your real name is that you can begin to establish a public academic identity and to network with others in your field. However, keep in mind that search engines have extended the life of online work; if you are not sure that you want your work for this course to be part of your permanently searchable identity trail on the web, you should strongly consider creating a digital alias. Whether you engage social media under your real name or whether you construct a new online identity, please consider the ways in which social media can affect your career in both positive and negative ways.
 
 
-**Books to Purchase:** <br />
+**Books to Purchase:** 
+
 Note: We encourage you to purchase books via <a href="http://www.amazon.com/gp/homepage.html?ie=UTF8&placement=home-logo-130x60b.gif&tag=gccunyvirtualboo&link_code=hom&tag-id=gccunyvirtualboo">this link</a>, which costs you nothing but nets a 5 percent contribution to the Mina Rees Library for book and electronic resource purchases for the benefit of all GC students. 
 
 _Required_ <br />
@@ -89,7 +91,7 @@ _Required_ <br />
 
 _Optional_ <br />
 
-* Gold, Matthew K. _Debates in the Digital Humanities_. Minneapolis: University of Minnesota Press, 2012.  Book is available for free online at http://dhdebates.gc.cuny.edu
+* Gold, Matthew K. _Debates in the Digital Humanities_. Minneapolis: University of Minnesota Press, 2012.  Book is available for free online at [http://dhdebates.gc.cuny.edu](http://dhdebates.gc.cuny.edu)
 
 
 Readings marked (PDF) will be made available via the Files section of our course group.
@@ -135,7 +137,7 @@ Readings marked (PDF) will be made available via the Files section of our course
 * In [*Debates in the Digital Humanities*](http://dhdebates.gc.cuny.edu):   
 	*  Stephen Brier, ["Where’s the Pedagogy? The Role of Teaching and Learning in the Digital Humanities”](http://dhdebates.gc.cuny.edu/debates/text/8) 
 	* Luke Waltzer, ["Digital Humanities and the ‘Ugly Stepchildren’ of American Higher Education”](http://dhdebates.gc.cuny.edu/debates/text/33)  
-* In [_Digital Humanities Pedagogy: Practices, Principles and Politics_](http://www.openbookpublishers.com/reader/161)
+* In [_Digital Humanities Pedagogy: Practices, Principles and Politics_](http://www.openbookpublishers.com/reader/161):
 	* Simon Mahony and Elena Pierazzo, "Teaching Skills or Teaching Methodology?”
 	* Stephen Ramsay, "Programming with Humanists: Reflections on Raising an Army of Hacker-Scholars in the Digital Humanities”
 	* Tanya Clement, "Multiliteracies in the Undergraduate Digital Humanities Curriculum: Skills, Principles and Habits of Mind”  
@@ -158,7 +160,8 @@ Digitized Books,”](http://www.sciencemag.org/content/331/6014/176.full) *Scien
 
 * Franco Moretti, *Graphs, Maps, Trees*
 * Franco Moretti, "The Slaughterhouse of Literature” (PDF)
-* Matthew Jockers, *Macroanalysis* (selections: "Macroanalysis" 24–32, "Style"63–104, "Theme" 188–153)
+* Matthew Jockers, *Macroanalysis* (selections: "Macroanalysis" 24–32, "Style" 63–104, "Theme" 188–153)
+* skim the [Stanford Literary Lab Pamphlets](http://litlab.stanford.edu/pamphlets/), particularly #s 2, 5, and 7
 
 
 **Nov. 9 - Geospatial Humanities**
@@ -168,7 +171,7 @@ Digitized Books,”](http://www.sciencemag.org/content/331/6014/176.full) *Scien
 
 **Nov. 16 - Discipline TBD**
 
-* (could ask class what disciplines they represent, or Kevin could do film/TV this day) 
+* (could ask class what disciplines they represent, or Kevin could do film/TV this day?)
 
 ---
 #### Digital Humanities Projects
@@ -181,10 +184,10 @@ Digitized Books,”](http://www.sciencemag.org/content/331/6014/176.full) *Scien
 	* ["What is Visualization?”](http://manovich.net/index.php/projects/what-is-visualization)
 * Lauren Klein, "The Long Arc of Visual Display" (video) [https://www.youtube.com/watch?v=heUI6QmSdzc](https://www.youtube.com/watch?v=heUI6QmSdzc)
 * Visualization projects to check out 
-	* "On Broadway" - [http://www.on-broadway.nyc/](http://www.on-broadway.nyc/)
-	* "History Flow” - [http://www.bewitched.com/historyflow.html](http://www.bewitched.com/historyflow.html) 
-	* Ben Fry, "On the Origin of Species: The Preservation of Favoured Traces” [http://benfry.com/traces/](http://benfry.com/traces/) 
-	* Explore the Visual Complexity website - [http://www.visualcomplexity.com/vc/](http://www.visualcomplexity.com/vc/)
+	* "On Broadway," [http://www.on-broadway.nyc/](http://www.on-broadway.nyc/)
+	* "History Flow,” [http://www.bewitched.com/historyflow.html](http://www.bewitched.com/historyflow.html) 
+	* Ben Fry, "On the Origin of Species: The Preservation of Favoured Traces,” [http://benfry.com/traces/](http://benfry.com/traces/) 
+	* Explore the Visual Complexity website, [http://www.visualcomplexity.com/vc/](http://www.visualcomplexity.com/vc/)
 
 **Nov. 30 - Guest Visit: XXX (zzz) on YYY** 
 
@@ -206,7 +209,7 @@ Digitized Books,”](http://www.sciencemag.org/content/331/6014/176.full) *Scien
 
 * NYPL Labs website: [http://www.nypl.org/collections/labs](http://www.nypl.org/collections/labs)
 * NYPL twitter account: [https://twitter.com/nypl_labs](https://twitter.com/nypl_labs)
-* Shannon Mattern, "Library as Infrastructure" [https://placesjournal.org/article/library-as-infrastructure/](https://placesjournal.org/article/library-as-infrastructure/)
+* Shannon Mattern, "Library as Infrastructure," [https://placesjournal.org/article/library-as-infrastructure/](https://placesjournal.org/article/library-as-infrastructure/)
 
 **Dec. 21 - Final presentations**
 
