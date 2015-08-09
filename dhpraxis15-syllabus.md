@@ -214,3 +214,10 @@ Digitized Books,”](http://www.sciencemag.org/content/331/6014/176.full) *Scien
 **Dec. 21 - Final presentations**
 
 **Dec. XX - Final projects due** (assignment details to come)
+
+ 
+		some questions: 
+		1) how is Zotero used?  
+		2) could take away dataset presentations on Dec 7th. and give back to guest speaker?
+		3) specific prompts for reading/discussion blog posts?
+		4) 
