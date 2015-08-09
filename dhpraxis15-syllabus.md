@@ -44,7 +44,7 @@ Invited speakers, all prominent digital humanists, will join the class to discus
 * Weekly readings in advance of class sessions and public presentations.
 * Students are responsible for writing at least two blog posts on our shared course blog about our weekly readings or in-class discussions. These should be posted by Friday night so that peers have the weekend to respond before Monday's class. There are three other required blog posts described below, for five total.
 * Students who are not writing blog posts on a given week should comment on and respond to the posts of other students.
-* Students are encouraged to live-tweet their readings, workshops, class discussions, or other events of interest to #dhpraxis15.
+* Students are encouraged to live-tweet their readings, workshops, class discussions, or other events of interest to [#dhpraxis15](https://twitter.com/hashtag/dhpraxis15).
 
 **Workshops**
 
@@ -75,7 +75,7 @@ Note: We encourage you to purchase books via <a href="http://www.amazon.com/gp/h
 
 _Required_ <br />
 
-~~* Fitzpatrick, Kathleen. _Planned Obsolescence: Publishing, Technology, and the Future of the Academy_. New York: New York University Press, 2011.~~
+* ~~Fitzpatrick, Kathleen. _Planned Obsolescence: Publishing, Technology, and the Future of the Academy_. New York: New York University Press, 2011.~~
 
 * Moretti, Franco. _Graphs, Maps, Trees: Abstract Models for a Literary History_. London: Verso, 2005.
 
@@ -91,6 +91,8 @@ Readings marked (PDF) will be made available via the Files section of our course
 
 
 ### Course Schedule and Preliminary Syllabus (subject to change)
+---
+#### What Is Digital Humanities and Why Is It Difficult to Define?
 
 **Aug. 31 - Introductions**
 
@@ -100,95 +102,107 @@ Readings marked (PDF) will be made available via the Files section of our course
 
 **Sept. 21 - What is DH?/Defining the Digital Humanities**  
 
-* Debates in the Digital Humanities: Introduction, Part I: Defining the Digital Humanities + Matthew Kirschenbaum, “Digital Humanities As/Is a Tactical Term”
-* Gold, Matthew K. “Digital Humanities” from The Johns Hopkins Guide to Digital Media (PDF)
-* Susan Hockey, “The History of Humanities Computing” from A Companion to Digital Humanities
-* The CUNY Digital Humanities Resource Guide
+* *Debates in the Digital Humanities*: Introduction, Part I: Defining the Digital Humanities
+* Matthew Kirschenbaum, ["Digital Humanities As/Is a Tactical Term"](http://dhdebates.gc.cuny.edu/debates/text/48)
+* Matthew K. Gold, "Digital Humanities” from *The Johns Hopkins Guide to Digital Media* (PDF)
+* Susan Hockey, "The History of Humanities Computing” from *A Companion to Digital Humanities*
+* [The CUNY Digital Humanities Resource Guide](http://commons.gc.cuny.edu/wiki/index.php/The_CUNY_Digital_Humanities_Resource_Guide)
 
 **Sept. 28  - Critiquing and Theorizing DH**
 
-* Critiquing and Theorizing the Digital Humanities sections from Debates in the Digital Humanities
-* Theory and the Virtues of the Digital Humanities section of Journal of the Digital Humanities 1:1 (Winter 2011).
-* Matthew G. Kirschenbaum, “What is ‘Digital Humanities,’ and Why Are They Saying Such Terrible Things about It?”
-* Around DH in 80 Days project
+* Critiquing and Theorizing the Digital Humanities sections from *Debates in the Digital Humanities*
+* [Theory and the Virtues of the Digital Humanities](http://journalofdigitalhumanities.org/1-1/) section of *Journal of the Digital Humanities* 1:1 (Winter 2011).
+* Matthew G. Kirschenbaum, ["What is ‘Digital Humanities,’ and Why Are They Saying Such Terrible Things about It?” (PDF link)](https://mkirschenbaum.files.wordpress.com/2014/04/dhterriblethingskirschenbaum.pdf)
+* [Around DH in 80 Days](http://www.arounddh.org/) project
 
 **Oct. 5 - Everting the Digital Humanities** 
 
-* Steven E. Jones, Introduction and Chapter 1 of Emergence of the Digital Humanities (PDF)
+* Steven E. Jones, Introduction and Chapter 1 of *Emergence of the Digital Humanities* (PDF)
 * Other readings TBA
 
 
 **Oct. 12 - NO CLASS** 
 
-**Oct. 19 - Distant Reading**
+**Oct. 19 - Digital Pedagogy: How DH is Reshaping Teaching & Learning**
 
-* Franco Moretti, Graphs, Maps, Trees 
-* Franco Moretti, “The Slaughterhouse of Literature” (PDF)
-* Matthew Jockers, Macroanalysis (selections)
-
-**Oct. 26 - Digital Pedagogy: How DH is Reshaping Teaching & Learning**
-
-* (continued discussion of Jockers)
-*  Stephen Brier, “Where’s the Pedagogy? The Role of Teaching and Learning in the Digital Humanities” and Luke Waltzer, “Digital Humanities and the ‘Ugly Stepchildren’ of American Higher Education” in Debates in the Digital Humanities http://dhdebates.gc.cuny.edu ; 
+*  Stephen Brier, "Where’s the Pedagogy? The Role of Teaching and Learning in the Digital Humanities” and Luke Waltzer, "Digital Humanities and the ‘Ugly Stepchildren’ of American Higher Education” in Debates in the Digital Humanities http://dhdebates.gc.cuny.edu ; 
 * In _Digital Humanities Pedagogy: Practices, Principles and Politics_ - [http://www.openbookpublishers.com/reader/161](http://www.openbookpublishers.com/reader/161)
 
-	* “Teaching Skills or Teaching Methodology?” - Simon Mahony and Elena Pierazzo 
+	* "Teaching Skills or Teaching Methodology?” - Simon Mahony and Elena Pierazzo 
 
-	* “Programming with Humanists: Reflections on Raising an Army of Hacker-Scholars in the Digital Humanities” - Stephen Ramsay 
+	* "Programming with Humanists: Reflections on Raising an Army of Hacker-Scholars in the Digital Humanities” - Stephen Ramsay 
 
-	* “Multiliteracies in the Undergraduate Digital Humanities Curriculum: Skills, Principles and Habits of Mind” - Tanya Clement 
-		 
+	* "Multiliteracies in the Undergraduate Digital Humanities Curriculum: Skills, Principles and Habits of Mind” - Tanya Clement
+	
+---
+#### What Does DH Look Like in Different Disciplines?
 
-**Nov. 2 - Geospatial Humanities**
+**Oct. 26 - History and the Archive**
 
-* [continued discussion of DH Pedagogy readings]
+* Jean-Baptiste Michel et al., ["Quantitative Analysis of Culture Using Millions of
+Digitized Books,”](http://www.sciencemag.org/content/331/6014/176.full) *Science* 331.176 (2011): 176–182.
+* Stephen Ramsay, ["The Hermeneutics of Screwing Around; or What You Do with a Million Books"](http://quod.lib.umich.edu/d/dh/12544152.0001.001/1:5/--pastplay-teaching-and-learning-history-with-technology?g=dculture;rgn=div1;view=fulltext;xc=1#5.1)
+*  [Introduction](http://chnm.gmu.edu/digitalhistory/introduction/) from Dan Cohen and Roy Rosenzweig, *Digital History: A Guide to Gathering, Preserving, and Presenting the Past on the Web*
+* In Kristen Nawrotzki & Jack Dougherty, eds., *Writing History in the Digital Age*, [Part 2. The Wisdom of Crowds(ourcing)](http://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1)
+
+	* Leslie Madsen-Brooks "'I nevertheless am a historian': Digital Historical Practice and Malpractice around Black Confederate Soldiers"
+	* Robert Wolff, ""Beyond the Historical Profession: The Historian’s Craft, Popular Memory, and the Wikipedia"
+
+**Nov. 2 - Literature and Distant Reading**
+
+* Franco Moretti, *Graphs, Maps, Trees*
+* Franco Moretti, "The Slaughterhouse of Literature” (PDF)
+* Matthew Jockers, *Macroanalysis* (selections)
+
+
+**Nov. 9 - Geospatial Humanities**
+
 * Todd Presner, _Hypercities_
-* Hypercities book website http://thebook.hypercities.com/
+* Hypercities book website http://thebook.hypercities.com/ 
 
-**Nov. 9   Lev Manovich (CUNY Graduate Center) on Data Visualization**  
+**Nov. 16 - Discipline TBD**
 
-* Lev Manovich, “Trending: The Promises and the Challenges of Big Social Data,” “How to Compare One Million Images” http://dhdebates.gc.cuny.edu/debates/text/15 
-* Lev Manovich, “Media Visualization: Visual Techniques for Exploring Large Media Collections” http://manovich.net/index.php/projects/media-visualization-visual-techniques-for-exploring-large-media-collections
-* Lev Manovich, “What is Visualization” http://manovich.net/index.php/projects/what-is-visualization
+* could ask class what disciplines they represent, or Kevin could do film/TV this day 
+
+---
+#### Digital Humanities Projects
+
+**Nov. 23 - Guest Visit: Lev Manovich (CUNY Graduate Center) on Data Visualization**  
+
+* Lev Manovich, "Trending: The Promises and the Challenges of Big Social Data,” "How to Compare One Million Images” http://dhdebates.gc.cuny.edu/debates/text/15 
+* Lev Manovich, "Media Visualization: Visual Techniques for Exploring Large Media Collections” http://manovich.net/index.php/projects/media-visualization-visual-techniques-for-exploring-large-media-collections
+* Lev Manovich, "What is Visualization” http://manovich.net/index.php/projects/what-is-visualization
 * Lauren Klein, "The Long Arc of Visual Display" (video) https://www.youtube.com/watch?v=heUI6QmSdzc
 * Visualization projects: check out 
-* “History Flow” - http://www.bewitched.com/historyflow.html 
-* Ben Fry, “On the Origin of Species: The Preservation of Favoured Traces” http://benfry.com/traces/ 
-* Explore the Visual Complexity website - http://www.visualcomplexity.com/vc/
+	* "History Flow” - http://www.bewitched.com/historyflow.html 
+	* Ben Fry, "On the Origin of Species: The Preservation of Favoured Traces” http://benfry.com/traces/ 
+	* Explore the Visual Complexity website - http://www.visualcomplexity.com/vc/
 
-**Nov. 16 - TOM SCHEINFELDT VISIT**
+**Nov. 30 - Guest Visit: XXX (zzz) on YYY** 
 
-Tom Scheinfeldt (University of Connecticut) on managing DH projects
-* Tom Scheinfeldt, Intro to Project Management Notes - https://docs.google.com/document/d/1Ex-b6zWtiuQWZw6DkV7B4cEGNovUWznvFV0fPvHXpN0/edit?hl=en_US&pli=1
-* Bethany Nowviskie, Ten Rules for Humanities Scholars New to Project Management - http://nowviskie.org/handouts/DH/10rules.pdf
-* Sharon Leon, “Project Management for Humanists” - http://mediacommons.futureofthebook.org/alt-ac/pieces/project-management-humanists
-* John Unsworth, “The Importance of Failure” - http://quod.lib.umich.edu/cgi/t/text/text-idx?c=jep;view=text;rgn=main;idno=3336451.0003.201
-
-**Nov. 23 - KATHLEEN FITZPATRICK VISIT** 
-
-Kathleen Fitzpatrick (Modern Language Association) on scholarly communication. 
+~~Kathleen Fitzpatrick (Modern Language Association) on scholarly communication.~~ 
 
 * Kathleen Fitzpatrick, _Planned Obsolescence_
-* Hacking the Academy: Hacking Scholarship section - http://quod.lib.umich.edu/d/dh/12172434.0001.001/1:2/--hacking-the-academy-new-approaches-to-scholarship?g=dculture;rgn=div1;view=fulltext;xc=1
+* [Hacking the Academy: Hacking Scholarship section](http://quod.lib.umich.edu/d/dh/12172434.0001.001/1:2/--hacking-the-academy-new-approaches-to-scholarship?g=dculture;rgn=div1;view=fulltext;xc=1)
 
-**Nov. 30 - Steve Jones Lecture - "The Priest and the CEO" Room 5318.05. 4:00 PM**
+~~Tom Scheinfeldt (University of Connecticut) on managing DH projects~~
 
-We will be joining the ARC Seminar to hear Steve Jones, Distinguished Fellow in Digital Humanities, give a report on his book in progress. The book is "about the birth of humanities computing in 1949, when the Jesuit scholar, Father Roberto Busa, came to IBM NY to work out a collaboration for building a massive concordance to the works of St. Thomas Aquinas. The story of that meeting, as told by Father Busa and others, has become the founding myth of the digital humanities, and I aim to examine the complex historical details behind the myth. I've been examining archives at IBM and the papers of Father Busa in Milan, among other materials, in order to write a kind of pre-history of DH, applying the methods of media archaeology--focused on punched card  machines and early stored-program computers--and narrative history, to tell a a multilayered story about technology and interdisciplinary humanities research in the postwar era."
-
+* Tom Scheinfeldt, Intro to Project Management Notes - https://docs.google.com/document/d/1Ex-b6zWtiuQWZw6DkV7B4cEGNovUWznvFV0fPvHXpN0/edit?hl=en_US&pli=1
+* Bethany Nowviskie, Ten Rules for Humanities Scholars New to Project Management - http://nowviskie.org/handouts/DH/10rules.pdf
+* Sharon Leon, "Project Management for Humanists” - http://mediacommons.futureofthebook.org/alt-ac/pieces/project-management-humanists
+* John Unsworth, "The Importance of Failure” - http://quod.lib.umich.edu/cgi/t/text/text-idx?c=jep;view=text;rgn=main;idno=3336451.0003.201
 
 **Dec. 7 - Dataset presentations**
 
 **Dec. 14 - NYPL Labs visit**
 
 * NYPL Labs website: http://www.nypl.org/collections/labs
-
 * NYPL twitter account: https://twitter.com/nypl_labs
-
 * Shannon Mattern, "Library as Infrastructure" https://placesjournal.org/article/library-as-infrastructure/
 
 **Dec. 21 - Final presentations**
 
-**Dec. XX - Final paper due** (assignment details to come)
+**Dec. XX - Final projects due** (assignment details to come)
 
 
 
