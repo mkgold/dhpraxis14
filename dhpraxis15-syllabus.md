@@ -1,4 +1,4 @@
-## Digital Praxis Seminar <br />
+## Digital Praxis Seminar:" DRAFT" <br />
 MALS 75400/IDS 81620 <br />
 Fall 2015 <br />
 CUNY Graduate Center <br />
