@@ -2,7 +2,7 @@
 MALS 75400/IDS 81620 <br />
 Fall 2015 <br />
 CUNY Graduate Center <br />
-Mondays 4:15pm – 6:15pm - Room 8203
+Mondays 4:15pm–6:15pm - Room 8203
 
 **Dr. Matthew K. Gold** <br />
 mgold@gc.cuny.edu  <br />
@@ -25,7 +25,8 @@ The two connected three-credit courses will be offered during the Fall and Sprin
  
 ### Fall 2015: DH Praxis Seminar
 The Fall semester will introduce students to a broad range of ways of thinking about their research and teaching using digital tools and methods. Emphasis will be placed on the interdisciplinarity of, and conversations related to, digital scholarship.  
-Invited speakers, all prominent digital humanists, will each join the class to discuss readings and to offer workshops. 
+
+Invited speakers, all prominent digital humanists, will join the class to discuss readings and to offer workshops. 
 
 
 ### Learning Objectives
@@ -40,30 +41,31 @@ Invited speakers, all prominent digital humanists, will each join the class to d
 
 **Weekly Class Sessions and Blogging**
 
-* Weekly readings in advance of class sessions and public presentations
-* Students are responsible for writing at least two blog posts on our course blog about our weekly readings or in-class discussions
-* Students who are not writing blog posts on a given week should comment on and respond to the posts of other students
+* Weekly readings in advance of class sessions and public presentations.
+* Students are responsible for writing at least two blog posts on our shared course blog about our weekly readings or in-class discussions. These should be posted by Friday night so that peers have the weekend to respond before Monday's class. There are three other required blog posts described below, for five total.
+* Students who are not writing blog posts on a given week should comment on and respond to the posts of other students.
+* Students are encouraged to live-tweet their readings, workshops, class discussions, or other events of interest to #dhpraxis15.
 
 **Workshops**
 
-* We will be offering skills workshops throughout the semester. Students are responsible for attending a minimum of three workshops over the course of the semester. You are free to go to as many as you’d like pending space limitations.
+* We will be offering skills workshops throughout the semester. Students are responsible for attending a minimum of three workshops over the course of the semester. You are free to go to as many as you’d like pending space limitations. Students should write one blog post describing how one of the workshops they attended would be especially useful to a particular undergraduate class in their discipline.
 
 **Data Project**
 
-* Students should identify a dataset of interest and explore it before the end of the semester using a digital tool such as MALLET, Gephi, R, Voyant, Juxta, ImagePlot, or Neatline, among others (many tools can be found in the [DiRT Directory](http://dirtdirectory.org/)). Students should write one blog post describing these experiments.
+* Students will identify a dataset of interest and explore it before the end of the semester using a digital tool such as MALLET, Gephi, R, Voyant, Juxta, ImagePlot, or Neatline, among others (many tools can be found in the [DiRT Directory](http://dirtdirectory.org/)). Early in the semester, students will write one blog post linking to their dataset, explaining why they selected it, noting what datapoints they excluded and why, and describing how they cleaned or prepared the data for analysis. Near the end of the semester, students will write a second blog post describing the results of their experiments with their digital tool, focusing in particular on the strengths and limitations of the tool or methodology they used.
 
 **Final Projects**
 
-* Students may choose between writing a reflective course paper that discusses how new methodologies / digital tools are affecting their respective academic fields; or crafting a proposal for a digital project that might be executed with a team of students during the spring semester.
+* Students may choose between a) writing a reflective course paper that uses their data project as a case study to demonstrate how new methodologies / digital tools are changing their respective academic fields, b) crafting a formal proposal for a digital project that might be executed with a team of students during the spring semester, or c) creating an individual digital research project on a Commons website that compares the dataset used for your data project with a second, related dataset.
 
-**Grading:** 
+**Grading** 
 
 * Regular participation in discussions across the range of our face-to-face and online course spaces is essential. A significant part of our course will involve experimentation and play with various digital humanities tools. There will also be an emphasis throughout the course on online participation through various projects and weekly online discussions that will contribute to your final grade. (30%)
 
-* Final paper (70%)
+* Final project (70%)
 
-**Accounts:**  <br />
-Immediately following the first class on August 31st, all students should register for accounts on the following sites: CUNY Academic Commons, Twitter, and Zotero. 
+**Accounts**  <br />
+Immediately following the first class on August 31st, all students should register for accounts on the following sites: [CUNY Academic Commons](https://commons.gc.cuny.edu/), [Twitter](https://twitter.com), and [Zotero](https://www.zotero.org/). 
 
 Remember that when you register for social-networking accounts, you do not have to use your full name or even your real name. One benefit of writing publicly under your real name is that you can begin to establish a public academic identity and to network with others in your field. However, keep in mind that search engines have extended the life of online work; if you are not sure that you want your work for this course to be part of your permanently searchable identity trail on the web, you should strongly consider creating a digital alias. Whether you engage social media under your real name or whether you construct a new online identity, please consider the ways in which social media can affect your career in both positive and negative ways.
 
@@ -73,7 +75,7 @@ Note: We encourage you to purchase books via <a href="http://www.amazon.com/gp/h
 
 _Required_ <br />
 
-* Fitzpatrick, Kathleen. _Planned Obsolescence: Publishing, Technology, and the Future of the Academy_. New York: New York University Press, 2011.
+~~* Fitzpatrick, Kathleen. _Planned Obsolescence: Publishing, Technology, and the Future of the Academy_. New York: New York University Press, 2011.~~
 
 * Moretti, Franco. _Graphs, Maps, Trees: Abstract Models for a Literary History_. London: Verso, 2005.
 
