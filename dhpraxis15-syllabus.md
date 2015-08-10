@@ -51,7 +51,7 @@ Invited speakers, all prominent digital humanists, will join the class to discus
 * We will be offering skills workshops throughout the semester. Students are responsible for attending a minimum of three workshops over the course of the semester. You are free to go to as many as you’d like pending space limitations. Students should write one blog post describing how one of the workshops they attended would be especially useful to a particular undergraduate class in their discipline.
 
 * *Workshop Schedule*  
-Please see the GC Digital Fellows workshop schedule [http://digitalfellows.commons.gc.cuny.edu/workshops/](http://digitalfellows.commons.gc.cuny.edu/workshops/)
+Please see the GC Digital Fellows workshop schedule [http://digitalfellows.commons.gc.cuny.edu/category/workshops-2/](http://digitalfellows.commons.gc.cuny.edu/category/workshops-2/)
 and the GCDI calendar for other workshops [http://gcdi.commons.gc.cuny.edu/events/](http://gcdi.commons.gc.cuny.edu/events/)
 
 
@@ -214,10 +214,3 @@ Digitized Books,”](http://www.sciencemag.org/content/331/6014/176.full) *Scien
 **Dec. 21 - Final presentations**
 
 **Dec. XX - Final projects due** (assignment details to come)
-
- 
-		some questions: 
-		1) how is Zotero used?  
-		2) could take away dataset presentations on Dec 7th. and give back to guest speaker?
-		3) specific prompts for reading/discussion blog posts?
-		4) 
