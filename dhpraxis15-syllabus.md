@@ -2,7 +2,7 @@
 MALS 75400/IDS 81620  
 Fall 2015  
 CUNY Graduate Center  
-Mondays 4:15pm–6:15pm - Room 8203
+Mondays 4:15pm–6:15pm - Room 6496
 
 **Dr. Matthew K. Gold**  
 mgold@gc.cuny.edu  
@@ -99,8 +99,7 @@ Readings marked (PDF) will be made available via the Files section of our course
 
 ### Course Schedule and Preliminary Syllabus (subject to change)
 ---
-#### What Is Digital Humanities and Why Is It Difficult to Define?
-
+#### What Is Digital Humanities and Why Is It Difficult to Define? 
 **Aug. 31 - Introductions**
 
 **Sept. 7 - NO CLASS**
