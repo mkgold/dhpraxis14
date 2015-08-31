@@ -132,13 +132,12 @@ Readings marked (PDF) will be made available via the Files section of our course
 
 **Oct. 5 - History and the Archive**
 
-* ~~Jean-Baptiste Michel et al., ["Quantitative Analysis of Culture Using Millions of
-Digitized Books,”](http://www.sciencemag.org/content/331/6014/176.full) *Science* 331.176 (2011): 176–182.~~
 *  [Introduction](http://chnm.gmu.edu/digitalhistory/introduction/) from Dan Cohen and Roy Rosenzweig, *Digital History: A Guide to Gathering, Preserving, and Presenting the Past on the Web*
 * Stephen Robertson, [“The Differences between Digital History and Digital Humanities”](http://drstephenrobertson.com/blog-post/the-differences-between-digital-history-and-digital-humanities/)
 * In Kristen Nawrotzki & Jack Dougherty, eds., *Writing History in the Digital Age*, from [Part 2. The Wisdom of Crowds(ourcing)](http://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1):
 	* Leslie Madsen-Brooks, "'I nevertheless am a historian': Digital Historical Practice and Malpractice around Black Confederate Soldiers"
 	* Robert Wolff, "Beyond the Historical Profession: The Historian’s Craft, Popular Memory, and the Wikipedia"  
+
 	
   
 *blog about your chosen dataset sometime in the next few weeks*
@@ -163,7 +162,7 @@ Digitized Books,”](http://www.sciencemag.org/content/331/6014/176.full) *Scien
 * Hypercities book website [http://thebook.hypercities.com/](http://thebook.hypercities.com/) 
 
 **Nov. 9 - Cinema and Media Studies**
-* Hoyt, Ponto, Roy, [“Visualizing and Analyzing the Hollywood Screenplay with ScripThreads”](http://www.digitalhumanities.org/dhq/vol/8/4/000190/000190.html)* ~~Lev Manovich, ["Visualizing Vertov"](http://manovich.net/index.php/projects/visualizing-vertov)~~* Kevin L. Ferguson, "Digital Surrealism: Visualizing Walt Disney Animation Studios" (PDF)* Tim Smith, ["Watching You Watch *There Will Be Blood*"](http://www.davidbordwell.net/blog/2011/02/14/watching-you-watch-there-will-be-blood/)* [Cinemetrics](http://www.cinemetrics.lv/) website, especially ["Taking shot lengths: Why and How"](http://www.cinemetrics.lv/articles.php)
+* Hoyt, Ponto, Roy, [“Visualizing and Analyzing the Hollywood Screenplay with ScripThreads”](http://www.digitalhumanities.org/dhq/vol/8/4/000190/000190.html)* Kevin L. Ferguson, "Digital Surrealism: Visualizing Walt Disney Animation Studios" (PDF)* Tim Smith, ["Watching You Watch *There Will Be Blood*"](http://www.davidbordwell.net/blog/2011/02/14/watching-you-watch-there-will-be-blood/)* [Cinemetrics](http://www.cinemetrics.lv/) website, especially ["Taking shot lengths: Why and How"](http://www.cinemetrics.lv/articles.php)
 * Jeremy Butler, "Statistical Analysis of Television Style: What Can Numbers Tell Us about TV Editing?" (PDF)
 
 	 *blog about your chosen data project sometime in the next 2–3 weeks*
