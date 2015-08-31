@@ -18,7 +18,7 @@ Course Group: http://commons.gc.cuny.edu/groups/digital-praxis-seminar-2015-2016
 Course Blog: http://cuny.is/dhpraxis15  
 Course Hashtag: #dhpraxis15  
 
-### DH Praxis Seminar Overview:
+### DH Praxis Seminar Overview
 Aiming to ensure that new students begin thinking about digital scholarship and teaching from the moment they enter the Graduate Center, this year-long sequence of two three-credit courses introduces students to the landscape of digital humanities tools and methods through readings and classroom and online discussions, lectures offered by prominent scholars and technologists, hands-on workshops, and collaborative projects. Students enrolled in the two-course sequence will complete their first year at the GC having been introduced to a broad range of ways to critically evaluate and to incorporate digital technologies into their academic research and teaching. In addition, they will have explored both the general field and a particular area of digital scholarship and/or pedagogy of interest to them, produced a digital project in collaboration with fellow students, and established a digital portfolio that can be used to display their work.
 
 The two connected three-credit courses will be offered during the Fall and Spring semesters as MALS classes for master’s students and Interdisciplinary Studies courses for doctoral students. The Fall 2015 class will be co-taught by Professors Matthew Gold and Kevin Ferguson.
@@ -39,7 +39,11 @@ Invited speakers, all prominent digital humanists, will join the class to discus
 **Weekly Class Sessions and Blogging**
 
 * Weekly readings in advance of class sessions and public presentations.
-* Students are responsible for writing at least two blog posts on our shared course blog about our weekly readings or in-class discussions. These should be posted by Friday night so that peers have the weekend to respond before Monday's class. There are three other required blog posts described below, for five total.
+* Students are responsible for writing five blog posts on our shared course blog. These should be posted by Friday night so that peers have the weekend to respond before Monday's class.
+	* two about our weekly readings or in-class discussions,
+	* one about a workshop,
+	* one about their data project, and
+	* one about their final project.
 * Students who are not writing blog posts on a given week should comment on and respond to the posts of other students.
 * Students are encouraged to live-tweet their readings, workshops, class discussions, or other events of interest to [#dhpraxis15](https://twitter.com/hashtag/dhpraxis15).
 
@@ -93,6 +97,8 @@ Readings marked (PDF) will be made available via the Files section of our course
 ---
 #### What Is Digital Humanities and Why Is It Difficult to Define? 
 **Aug. 31 - Introductions**
+
+**Sept. 7 - NO CLASS**
 
 **Sept. 10 (THURSDAY) - What is DH?/Defining the Digital Humanities**  
 
@@ -154,15 +160,22 @@ Readings marked (PDF) will be made available via the Files section of our course
 
 * Andrew Goldstone and Ted Underwood, [“The Quiet Transformations of Literary Studies"](https://www.ideals.illinois.edu/bitstream/handle/2142/49323/QuietTransformations.pdf?sequence=2)
 * Stephen Ramsay, ["The Hermeneutics of Screwing Around; or What You Do with a Million Books"](http://quod.lib.umich.edu/d/dh/12544152.0001.001/1:5/--pastplay-teaching-and-learning-history-with-technology?g=dculture;rgn=div1;view=fulltext;xc=1#5.1)
+* additional readings TBA
 * discussion of your final projects
 
 **Nov. 2 - Geospatial Humanities**
 
 * Todd Presner, et. al. selections from _HyperCities: Thick Mapping in the Digital Humanities_. Cambridge, Mass.: Harvard University Press, 2014. (PDF)
 * Hypercities book website [http://thebook.hypercities.com/](http://thebook.hypercities.com/) 
+* additional readings TBA
 
 **Nov. 9 - Cinema and Media Studies**
-* Hoyt, Ponto, Roy, [“Visualizing and Analyzing the Hollywood Screenplay with ScripThreads”](http://www.digitalhumanities.org/dhq/vol/8/4/000190/000190.html)* Kevin L. Ferguson, "Digital Surrealism: Visualizing Walt Disney Animation Studios" (PDF)* Tim Smith, ["Watching You Watch *There Will Be Blood*"](http://www.davidbordwell.net/blog/2011/02/14/watching-you-watch-there-will-be-blood/)* [Cinemetrics](http://www.cinemetrics.lv/) website, especially ["Taking shot lengths: Why and How"](http://www.cinemetrics.lv/articles.php)
+
+* Hoyt, Ponto, Roy, [“Visualizing and Analyzing the Hollywood Screenplay with ScripThreads”](http://www.digitalhumanities.org/dhq/vol/8/4/000190/000190.html)
+* Kevin L. Ferguson, "Digital Surrealism: Visualizing Walt Disney Animation Studios" (PDF)
+* Ferguson, "Volumetric Cinema" [link to come]
+* Tim Smith, ["Watching You Watch *There Will Be Blood*"](http://www.davidbordwell.net/blog/2011/02/14/watching-you-watch-there-will-be-blood/)
+* [Cinemetrics](http://www.cinemetrics.lv/) website, especially ["Taking shot lengths: Why and How"](http://www.cinemetrics.lv/articles.php)
 * Jeremy Butler, "Statistical Analysis of Television Style: What Can Numbers Tell Us about TV Editing?" (PDF)
 
 	 *blog about your chosen data project sometime in the next 2–3 weeks*
@@ -172,7 +185,7 @@ Readings marked (PDF) will be made available via the Files section of our course
 
 _Note: the guests and dates in the section are still to be confirmed._
 
-**Nov. 16 - Guest Visit: Lev Manovich (CUNY Graduate Center) on Data Visualization** 
+**Nov. 16 - Guest Visit: Lev Manovich (CUNY Graduate Center) on Data Visualization (tentative)** 
 
 * Lev Manovich, [Trending: The Promises and the Challenges of Big Social Data](http://dhdebates.gc.cuny.edu/debates/text/15) 
 	* ["How to Compare One Million Images”](http://manovich.net/index.php/projects/how-to-compare) 
@@ -185,14 +198,14 @@ _Note: the guests and dates in the section are still to be confirmed._
 	* Ben Fry, "On the Origin of Species: The Preservation of Favoured Traces,” [http://benfry.com/traces/](http://benfry.com/traces/) 
 	* Explore the Visual Complexity website, [http://www.visualcomplexity.com/vc/](http://www.visualcomplexity.com/vc/)
 
-**Nov. 23 - Guest Visit: Kathleen Fitzpatrick (Modern Language Association) on Scholarly Communication** 
+**Nov. 23 - Guest Visit: Kathleen Fitzpatrick (Modern Language Association) on Scholarly Communication (tentative)** 
 
 * Kathleen Fitzpatrick, _Planned Obsolescence_
 * [Hacking the Academy: Hacking Scholarship section](http://quod.lib.umich.edu/d/dh/12172434.0001.001/1:2/--hacking-the-academy-new-approaches-to-scholarship?g=dculture;rgn=div1;view=fulltext;xc=1)
 
 **Nov. 30 - Dataset presentations**
 
-**Dec. 7 - NYPL Labs visit**
+**Dec. 7 - NYPL Labs visit (tentative)**
 
 * NYPL Labs website: [http://www.nypl.org/collections/labs](http://www.nypl.org/collections/labs)
 * NYPL twitter account: [https://twitter.com/nypl_labs](https://twitter.com/nypl_labs)
