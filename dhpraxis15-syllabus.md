@@ -121,6 +121,7 @@ Readings marked (PDF) will be made available via the Files section of our course
 * Miriam Posner, [“What’s Next: The Radical, Unrealized Potential of Digital Humanities”](http://miriamposner.com/blog/whats-next-the-radical-unrealized-potential-of-digital-humanities/)
 * Bethany Nowviskie, [“On the Origin of ‘Hack’ and ‘Yack’”](http://nowviskie.org/2014/on-the-origin-of-hack-and-yack/)
 * Mark Sample, [“Difficult Thinking about the Digital Humanities”](http://www.samplereality.com/2014/05/12/difficult-thinking-about-the-digital-humanities/)
+* Paul Ford, "[What Is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
 **Sept. 28  -  Digital Pedagogy: How DH is Reshaping Teaching & Learning**
 
