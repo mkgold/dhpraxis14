@@ -144,10 +144,9 @@ Readings marked (PDF) will be made available via the Files section of our course
 * In Kristen Nawrotzki & Jack Dougherty, eds., *Writing History in the Digital Age*, from [Part 2. The Wisdom of Crowds(ourcing)](http://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1):
 	* Leslie Madsen-Brooks, "'I nevertheless am a historian': Digital Historical Practice and Malpractice around Black Confederate Soldiers"
 	* Robert Wolff, "Beyond the Historical Profession: The Historian’s Craft, Popular Memory, and the Wikipedia"  
-
-	
   
-*blog about your chosen dataset sometime in the next few weeks*
+  
+	*blog about your chosen dataset sometime in the next few weeks*
 
 **Oct. 12 - NO CLASS** 
 
@@ -174,7 +173,7 @@ Readings marked (PDF) will be made available via the Files section of our course
 
 * Hoyt, Ponto, Roy, [“Visualizing and Analyzing the Hollywood Screenplay with ScripThreads”](http://www.digitalhumanities.org/dhq/vol/8/4/000190/000190.html)
 * Kevin L. Ferguson, "Digital Surrealism: Visualizing Walt Disney Animation Studios" (PDF)
-* Ferguson, "Volumetric Cinema" [link to come]
+* Ferguson, ["Volumetric Cinema"](http://mediacommons.futureofthebook.org/intransition/2015/03/10/volumetric-cinema)
 * Tim Smith, ["Watching You Watch *There Will Be Blood*"](http://www.davidbordwell.net/blog/2011/02/14/watching-you-watch-there-will-be-blood/)
 * [Cinemetrics](http://www.cinemetrics.lv/) website, especially ["Taking shot lengths: Why and How"](http://www.cinemetrics.lv/articles.php)
 * Jeremy Butler, "Statistical Analysis of Television Style: What Can Numbers Tell Us about TV Editing?" (PDF)
