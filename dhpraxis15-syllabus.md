@@ -177,8 +177,8 @@ Readings marked (PDF) will be made available via the Files section of our course
 * Tim Smith, ["Watching You Watch *There Will Be Blood*"](http://www.davidbordwell.net/blog/2011/02/14/watching-you-watch-there-will-be-blood/)
 * [Cinemetrics](http://www.cinemetrics.lv/) website, especially ["Taking shot lengths: Why and How"](http://www.cinemetrics.lv/articles.php)
 * Jeremy Butler, "Statistical Analysis of Television Style: What Can Numbers Tell Us about TV Editing?" (PDF)
-
-	 *blog about your chosen data project sometime in the next 2–3 weeks*
+  
+	*blog about your chosen data project sometime in the next 2–3 weeks*
 
 ---
 #### Digital Humanities Projects
