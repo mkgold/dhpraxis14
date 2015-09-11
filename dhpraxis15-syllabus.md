@@ -115,20 +115,20 @@ Readings marked (PDF) will be made available via the Files section of our course
 
 **Sept. 21 - Critiquing and Theorizing DH**
 
-* Part II: Theorizing the Digital Humanities and Part III: Critiquing the Digital Humanities from [*Debates in the Digital Humanities*](http://dhdebates.gc.cuny.edu)
-* Matthew G. Kirschenbaum, ["What is ‘Digital Humanities,’ and Why Are They Saying Such Terrible Things about It?” (PDF link)](https://mkirschenbaum.files.wordpress.com/2014/04/dhterriblethingskirschenbaum.pdf)
-* [Around DH in 80 Days](http://www.arounddh.org/) project
-* Miriam Posner, [“What’s Next: The Radical, Unrealized Potential of Digital Humanities”](http://miriamposner.com/blog/whats-next-the-radical-unrealized-potential-of-digital-humanities/)
-* Bethany Nowviskie, [“On the Origin of ‘Hack’ and ‘Yack’”](http://nowviskie.org/2014/on-the-origin-of-hack-and-yack/)
-* Mark Sample, [“Difficult Thinking about the Digital Humanities”](http://www.samplereality.com/2014/05/12/difficult-thinking-about-the-digital-humanities/)
-* Paul Ford, "[What Is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+* Part II: Theorizing the Digital Humanities and Part III: Critiquing the Digital Humanities from [*Debates in the Digital Humanities*](http://dhdebates.gc.cuny.edu), 2012
+* Matthew G. Kirschenbaum, ["What is ‘Digital Humanities,’ and Why Are They Saying Such Terrible Things about It?” (PDF link)](https://mkirschenbaum.files.wordpress.com/2014/04/dhterriblethingskirschenbaum.pdf), 2014
+* [Around DH in 80 Days](http://www.arounddh.org/) project, 2014
+* Miriam Posner, [“What’s Next: The Radical, Unrealized Potential of Digital Humanities”](http://miriamposner.com/blog/whats-next-the-radical-unrealized-potential-of-digital-humanities/), 2015
+* Bethany Nowviskie, [“On the Origin of ‘Hack’ and ‘Yack’”](http://nowviskie.org/2014/on-the-origin-of-hack-and-yack/), 2014
+* Mark Sample, [“Difficult Thinking about the Digital Humanities”](http://www.samplereality.com/2014/05/12/difficult-thinking-about-the-digital-humanities/), 2014
+* Paul Ford, "[What Is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/), 2015
 
 **Sept. 28  -  Digital Pedagogy: How DH is Reshaping Teaching & Learning**
 
-* In [*Debates in the Digital Humanities*](http://dhdebates.gc.cuny.edu):   
+* In [*Debates in the Digital Humanities*](http://dhdebates.gc.cuny.edu), 2012:   
 	*  Stephen Brier, ["Where’s the Pedagogy? The Role of Teaching and Learning in the Digital Humanities”](http://dhdebates.gc.cuny.edu/debates/text/8) 
 	* Luke Waltzer, ["Digital Humanities and the ‘Ugly Stepchildren’ of American Higher Education”](http://dhdebates.gc.cuny.edu/debates/text/33)  
-* In [_Digital Humanities Pedagogy: Practices, Principles and Politics_](http://www.openbookpublishers.com/reader/161):
+* In [_Digital Humanities Pedagogy: Practices, Principles and Politics_](http://www.openbookpublishers.com/reader/161), 2012:
 	* Simon Mahony and Elena Pierazzo, ["Teaching Skills or Teaching Methodology?”](http://books.openedition.org/obp/1639)
 	* Stephen Ramsay, ["Programming with Humanists: Reflections on Raising an Army of Hacker-Scholars in the Digital Humanities”](http://books.openedition.org/obp/1642)
 	* Tanya Clement, ["Multiliteracies in the Undergraduate Digital Humanities Curriculum: Skills, Principles and Habits of Mind”](http://books.openedition.org/obp/1656)
@@ -139,9 +139,9 @@ Readings marked (PDF) will be made available via the Files section of our course
 
 **Oct. 5 - History and the Archive**
 
-*  [Introduction](http://chnm.gmu.edu/digitalhistory/introduction/) from Dan Cohen and Roy Rosenzweig, *Digital History: A Guide to Gathering, Preserving, and Presenting the Past on the Web*
-* Stephen Robertson, [“The Differences between Digital History and Digital Humanities”](http://drstephenrobertson.com/blog-post/the-differences-between-digital-history-and-digital-humanities/)
-* In Kristen Nawrotzki & Jack Dougherty, eds., *Writing History in the Digital Age*, from [Part 2. The Wisdom of Crowds(ourcing)](http://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1):
+*  [Introduction](http://chnm.gmu.edu/digitalhistory/introduction/) from Dan Cohen and Roy Rosenzweig, *Digital History: A Guide to Gathering, Preserving, and Presenting the Past on the Web*, 2005
+* Stephen Robertson, [“The Differences between Digital History and Digital Humanities”](http://drstephenrobertson.com/blog-post/the-differences-between-digital-history-and-digital-humanities/), 2014
+* In Kristen Nawrotzki & Jack Dougherty, eds., *Writing History in the Digital Age*, from [Part 2. The Wisdom of Crowds(ourcing)](http://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1), 2013:
 	* Leslie Madsen-Brooks, "'I nevertheless am a historian': Digital Historical Practice and Malpractice around Black Confederate Soldiers"
 	* Robert Wolff, "Beyond the Historical Profession: The Historian’s Craft, Popular Memory, and the Wikipedia"  
   
