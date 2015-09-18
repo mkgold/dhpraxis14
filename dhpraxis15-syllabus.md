@@ -169,23 +169,7 @@ Readings marked (PDF) will be made available via the Files section of our course
 * Hypercities book website [http://thebook.hypercities.com/](http://thebook.hypercities.com/) 
 * additional readings TBA
 
-**Nov. 9 - Cinema and Media Studies**
-
-* Hoyt, Ponto, Roy, [“Visualizing and Analyzing the Hollywood Screenplay with ScripThreads”](http://www.digitalhumanities.org/dhq/vol/8/4/000190/000190.html)
-* Kevin L. Ferguson, "Digital Surrealism: Visualizing Walt Disney Animation Studios" (PDF)
-* Ferguson, ["Volumetric Cinema"](http://mediacommons.futureofthebook.org/intransition/2015/03/10/volumetric-cinema)
-* Tim Smith, ["Watching You Watch *There Will Be Blood*"](http://www.davidbordwell.net/blog/2011/02/14/watching-you-watch-there-will-be-blood/)
-* [Cinemetrics](http://www.cinemetrics.lv/) website, especially ["Taking shot lengths: Why and How"](http://www.cinemetrics.lv/articles.php)
-* Jeremy Butler, "Statistical Analysis of Television Style: What Can Numbers Tell Us about TV Editing?" (PDF)
-  
-	*blog about your chosen data project sometime in the next 2–3 weeks*
-
----
-#### Digital Humanities Projects
-
-_Note: the guests and dates in the section are still to be confirmed._
-
-**Nov. 16 - Guest Visit: Lev Manovich (CUNY Graduate Center) on Data Visualization (tentative)** 
+**Nov. 9 - Guest Visit: Lev Manovich (CUNY Graduate Center) on Data Visualization** 
 
 * Lev Manovich, [Trending: The Promises and the Challenges of Big Social Data](http://dhdebates.gc.cuny.edu/debates/text/15) 
 	* ["How to Compare One Million Images”](http://manovich.net/index.php/projects/how-to-compare) 
@@ -197,6 +181,22 @@ _Note: the guests and dates in the section are still to be confirmed._
 	* "History Flow,” [http://www.bewitched.com/historyflow.html](http://www.bewitched.com/historyflow.html) 
 	* Ben Fry, "On the Origin of Species: The Preservation of Favoured Traces,” [http://benfry.com/traces/](http://benfry.com/traces/) 
 	* Explore the Visual Complexity website, [http://www.visualcomplexity.com/vc/](http://www.visualcomplexity.com/vc/)
+  
+	*blog about your chosen data project sometime in the next 2–3 weeks*
+
+---
+#### Digital Humanities Projects
+
+_Note: the guests and dates in the section are still to be confirmed._
+
+**Nov. 16 - Cinema and Media Studies**
+
+* Hoyt, Ponto, Roy, [“Visualizing and Analyzing the Hollywood Screenplay with ScripThreads”](http://www.digitalhumanities.org/dhq/vol/8/4/000190/000190.html)
+* Kevin L. Ferguson, "Digital Surrealism: Visualizing Walt Disney Animation Studios" (PDF)
+* Ferguson, ["Volumetric Cinema"](http://mediacommons.futureofthebook.org/intransition/2015/03/10/volumetric-cinema)
+* Tim Smith, ["Watching You Watch *There Will Be Blood*"](http://www.davidbordwell.net/blog/2011/02/14/watching-you-watch-there-will-be-blood/)
+* [Cinemetrics](http://www.cinemetrics.lv/) website, especially ["Taking shot lengths: Why and How"](http://www.cinemetrics.lv/articles.php)
+* Jeremy Butler, "Statistical Analysis of Television Style: What Can Numbers Tell Us about TV Editing?" (PDF)
 
 **Nov. 23 - Guest Visit: Kathleen Fitzpatrick (Modern Language Association) on Scholarly Communication (tentative)** 
 
