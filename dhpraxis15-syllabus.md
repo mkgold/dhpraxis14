@@ -17,6 +17,7 @@ http://www.kevinlferguson.com
 Course Group: http://commons.gc.cuny.edu/groups/digital-praxis-seminar-2015-2016/   
 Course Blog: http://cuny.is/dhpraxis15  
 Course Hashtag: #dhpraxis15  
+GC Digital Fellows Office Hourse: http://digitalfellows.commons.gc.cuny.edu/digital-fellows-office-hours/
 
 ### DH Praxis Seminar Overview
 Aiming to ensure that new students begin thinking about digital scholarship and teaching from the moment they enter the Graduate Center, this year-long sequence of two three-credit courses introduces students to the landscape of digital humanities tools and methods through readings and classroom and online discussions, lectures offered by prominent scholars and technologists, hands-on workshops, and collaborative projects. Students enrolled in the two-course sequence will complete their first year at the GC having been introduced to a broad range of ways to critically evaluate and to incorporate digital technologies into their academic research and teaching. In addition, they will have explored both the general field and a particular area of digital scholarship and/or pedagogy of interest to them, produced a digital project in collaboration with fellow students, and established a digital portfolio that can be used to display their work.
