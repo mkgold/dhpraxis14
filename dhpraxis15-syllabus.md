@@ -161,7 +161,8 @@ Readings marked (PDF) will be made available via the Files section of our course
 
 * Andrew Goldstone and Ted Underwood, [“The Quiet Transformations of Literary Studies"](https://www.ideals.illinois.edu/bitstream/handle/2142/49323/QuietTransformations.pdf?sequence=2)
 * Stephen Ramsay, ["The Hermeneutics of Screwing Around; or What You Do with a Million Books"](http://quod.lib.umich.edu/d/dh/12544152.0001.001/1:5/--pastplay-teaching-and-learning-history-with-technology?g=dculture;rgn=div1;view=fulltext;xc=1#5.1)
-* additional readings TBA
+* Matthew L. Jockers, sections 1 Revolution, 2 Evidence, & 4 Macroanalysis from Part I of *Macroanalysis: Digital Methods and Literary History* (PDF on course website)
+* Eileen Clancy storify, ["A Fabula of Syuzhet: A Contretemps of Digital Humanities and Sentiment Analysis"](https://storify.com/clancynewyork/contretemps-a-syuzhet)
 * discussion of your final projects
 
 **Nov. 2 - Geospatial Humanities**
