@@ -169,7 +169,7 @@ Readings marked (PDF) will be made available via the Files section of our course
 
 * Todd Presner, et. al. selections from _HyperCities: Thick Mapping in the Digital Humanities_. Cambridge, Mass.: Harvard University Press, 2014. (PDF)
 * Hypercities book website [http://thebook.hypercities.com/](http://thebook.hypercities.com/) 
-* additional readings TBA
+* [Atlas of the Historical Geography of the United States](http://dsl.richmond.edu/historicalatlas/)
 
 **Nov. 9 - Guest Visit: Lev Manovich (CUNY Graduate Center) on Data Visualization** 
 
