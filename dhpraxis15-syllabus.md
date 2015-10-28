@@ -199,6 +199,7 @@ _Note: the guests and dates in the section are still to be confirmed._
 * Tim Smith, ["Watching You Watch *There Will Be Blood*"](http://www.davidbordwell.net/blog/2011/02/14/watching-you-watch-there-will-be-blood/)
 * [Cinemetrics](http://www.cinemetrics.lv/) website, especially ["Taking shot lengths: Why and How"](http://www.cinemetrics.lv/articles.php)
 * Jeremy Butler, "Statistical Analysis of Television Style: What Can Numbers Tell Us about TV Editing?" (PDF)
+* also recommended: look at the [Film and Moving Image Studies Re-Born Digital?](http://framescinemajournal.com/?issue=issue1) issue of _Frames Cinema Journal_ 
 
 **Nov. 23 - Guest Visit: Kathleen Fitzpatrick (Modern Language Association) on Scholarly Communication (tentative)** 
 
