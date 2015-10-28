@@ -170,6 +170,13 @@ Readings marked (PDF) will be made available via the Files section of our course
 * Todd Presner, et. al. selections from _HyperCities: Thick Mapping in the Digital Humanities_. Cambridge, Mass.: Harvard University Press, 2014. (PDF)
 * Hypercities book website [http://thebook.hypercities.com/](http://thebook.hypercities.com/) 
 * [Atlas of the Historical Geography of the United States](http://dsl.richmond.edu/historicalatlas/)
+* Chapter 1 and 2 of Mark Monmonier, _How to Lie with Maps_ (PDF)
+* In David J. Bodenhamer, John Corrigan, and Trevor M. Harris, eds, *The Spatial Humanities*:
+	* Introduction (PDF) 
+	* Edward L. Ayers, "Turning Toward Place, Space, and Time" (PDF)
+	* David J. Bodenhamer, "The Potential of Spatial Humanities" (PDF)
+	* Harris, Corrigan, and Bodenhamer, "Challenges for the Spatial Humanities" (PDF)
+	* "Suggestions for Further Reading" (PDF)
 
 **Nov. 9 - Guest Visit: Lev Manovich (CUNY Graduate Center) on Data Visualization** 
 
