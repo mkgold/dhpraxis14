@@ -176,6 +176,8 @@ Readings marked (PDF) will be made available via the Files section of our course
 	* Introduction (PDF) 
 	* Edward L. Ayers, "Turning Toward Place, Space, and Time" (PDF)
 	* David J. Bodenhamer, "The Potential of Spatial Humanities" (PDF)
+	* Gary Lock, "Representations of Space and Place in the Humanities" (PDF)
+	* May Yuan, "Mapping Text" (PDF)
 	* Harris, Corrigan, and Bodenhamer, "Challenges for the Spatial Humanities" (PDF)
 	* "Suggestions for Further Reading" (PDF)
 
