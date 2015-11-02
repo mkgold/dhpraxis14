@@ -218,7 +218,7 @@ _Note: the guests and dates in the section are still to be confirmed._
 
 **Nov. 30 - Dataset presentations**
 
-**Dec. 7 - NYPL Labs visit (tentative)**
+**Dec. 7 - NYPL Labs visit**
 
 * NYPL Labs website: [http://www.nypl.org/collections/labs](http://www.nypl.org/collections/labs)
 * NYPL twitter account: [https://twitter.com/nypl_labs](https://twitter.com/nypl_labs)
